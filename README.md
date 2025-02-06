@@ -1,3 +1,5 @@
+![DemoCard](https://github.com/user-attachments/assets/df03022c-7f24-4347-8da7-b3cacb5b38c7)
+
 # React User Profile Card
 
 A modern, animated user profile card built with React, TypeScript, and Framer Motion. The application fetches random user data from the Random User API and displays it in a beautifully designed card interface with smooth animations.
